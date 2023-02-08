@@ -1,0 +1,31 @@
+.container {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.container h1 a{
+    font-size: 30px;
+    margin: 0;
+    color: rgb(72, 86, 86);
+}
+.container h1{
+    margin: 10px;
+}
+.container h2 {
+    font-size: 20px;
+    margin: 0;
+    color: rgb(72, 89, 121);
+}
+.container h3 {
+    font-size: 15px;
+    color: black;
+}
+.script{
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
+.size {
+    font-style: italic;
+}
